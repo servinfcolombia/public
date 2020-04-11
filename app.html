@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title> App Ajax </title>
+	<link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css" rel="stylesheet" integrity="sha384-hVpXlpdRmJ+uXGwD5W6HZMnR9ENcKVRn855pPbuI/mwPIEKAuKgTKgGksVGmlAvt" crossorigin="anonymous">	
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+		<a href="#" class="navbar-brand"> Sistema de Busqueda de Vehiculo - AutoScan </a>
+		<ul class="navbar-nav ml-auto">
+			<form class="form-inline my-2 my-lg-0">
+				<input type="search" id="search" class="form-control mr-sm-2" placeholder="Digite lo que busca">
+				<br>
+				<button class="btn btn-success my-2 my-sm-0" type="submit">Search</button>
+			</form>
+		</ul>
+	</nav>
+
+	<div class="container p-2">
+		<div class="row">
+			<div class="col-md-3">
+				<div class="card">
+					<div class="card-body">
+						<form id="task-form">
+							<div class="form-group">
+								<input type="text" id="name" placeholder="Digita Nombre" class="form-control">
+							</div>
+							<div class="form-group">
+								<input type="text" id="address" placeholder="Digita La Ciudad" class="form-control">
+							</div>
+							<div class="form-group">
+								<input type="text" id="lat" placeholder="Digita Latitud" class="form-control">
+							</div>
+							<div class="form-group">
+								<input type="text" id="lng" placeholder="Digita Longitud" class="form-control">
+							</div>
+							<div class="form-group">
+								<input type="text" id="type" placeholder="Digita Actividad Economica" class="form-control">
+							</div>
+							<button type="submit" class="btn btn-primary btn-block text center"> save task</button>
+						</form>
+					</div>
+	
+				</div>
+			</div>
+			<div class="col-md-9">
+				<table class="table table-bordered table.sm">
+					<thead>
+						<tr>
+							<td>Select</td>
+							<td>id</td>
+							<td>Name</td>
+							<td>Address</td>
+							<td>Latitud</td>
+							<td>Longitud</td>
+							<td>Type</td>
+						</tr>
+					</thead>
+					<tbody id="task"></tbody>
+				</table>
+				
+				<div class="card my-4" id="task-result">
+					<div class="card-body">
+						<ul id="container"></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script
+	src="https://code.jquery.com/jquery-3.4.1.js"
+	integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+	crossorigin="anonymous"></script>
+	<script src='app.js'></script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[01 EAPB COMFENALCO VALLE.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[02 EAPB COOMEVA.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[03 EAPB EMAVI.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[04 EAPB HOMRO.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[05 EAPB MEDIMAS.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[06 EAPB NUEVA EPS.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[07 EAPB POLICIA NACIONAL.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[08 EAPB SANITAS.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[09 EAPB SURA.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[10 ESE CENTRO.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[11 ESE LADERA.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[12 ESE NORTE.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[13 ESE ORIENTE.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[14 ESE SUR ORIENTE.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[15 IPS BIOPREVENAR.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[16 IPS CENTRO MEDICO IMBANACO.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[17 IPS CLINICA DESA.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[18 IPS CLINICA VERSALLES.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[19 IPS COMFANDI.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[20 IPS CRISTO REY.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[21 IPS CRUZ ROJA.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[22 IPS CUIDAME.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[23 IPS DARPACOL.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[24 IPS FUNDACION VALLE DEL LILI.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[25 IPS HOSPITAL SAN JUAN DE DIOS.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[26 IPS HUV.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[27 IPS JANETH JARAMILLO CABAL.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[28 IPS PREVENIR  INTEGRAL SAS.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[29 IPS PREVENTIVA FARALLONES.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[30 IPS PRODUMEDIHOS.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[31 IPS PROFAMILIA TEQUNDAMA.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[32 IPS SALUD OCUPACIONAL ASESORES.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[33 IPS TRADISALUD.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[34 IPS UNIVERSIDAD SANTIAGO DE CALI.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
+\Users\FELIPE\Google Drive\PAI 2016 - 2020\2020\Sistema de Informacion 2020\Dosis Aplicadas 2020\ConexionEntidades\[35 IPS VIREY SOLIS.xlsx]TOTAL_PAISES_FRONTERISOS'!$E$8:$OE$124
